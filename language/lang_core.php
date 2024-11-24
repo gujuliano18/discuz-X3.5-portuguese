@@ -13,38 +13,38 @@ if(!defined('IN_DISCUZ')) {
 
 $lang = array
 (
-	'nextpage' => '下一页',
-	'prevpage' => '上一页',
-	'pageunit' => '页',
+	'nextpage' => 'Próxima página',//下一页
+	'prevpage' => 'Página anterior',//上一页
+	'pageunit' => 'Página',//页
 	'total' => '共',
 	'10k' => '万',
 	'pagejumptip' => '输入页码，按回车快速跳转',
 	'date' => array(
-		'before' => '前',
-		'day' => '天',
-		'yday' => '昨天',
-		'byday' => '前天',
-		'hour' => '小时',
-		'half' => '半',
-		'min' => '分钟',
-		'sec' => '秒',
-		'now' => '刚刚',
+		'before' => ' atrás',//前
+		'day' => 'dia',//天
+		'yday' => 'ontem',//昨天
+		'byday' => 'anteontem',//前天
+		'hour' => 'hora',//小时
+		'half' => '半',//半
+		'min' => 'min',//分钟
+		'sec' => 'seg',//秒
+		'now' => 'agora',//刚刚
 	),
-	'yes' => '是',
-	'no' => '否',
+	'yes' => 'Sim',//是
+	'no' => 'Não',//否
 	'weeks' => array(
-		1 => '周一',
-		2 => '周二',
-		3 => '周三',
-		4 => '周四',
-		5 => '周五',
-		6 => '周六',
-		7 => '周日',
+		1 => 'Segunda-feira',//周一
+        2 => 'Terça-feira',//周二
+        3 => 'Quarta-feira',//周三
+        4 => 'Quinta-feira',//周四
+        5 => 'Sexta-feira',//周五
+        6 => 'Sábado',//周六
+        7 => 'Domingo',//周日
 	),
 	'dot' => '、',
-	'archive' => '存档',
-	'portal' => '门户',
-	'end' => '末尾',
+	'archive' => 'Arquivo',//存档
+	'portal' => 'Portal',//门户
+	'end' => 'Fim',//末尾
 
 	'seccode_image_tips' => 'Digite os caractéres abaixo<br />',//输入下图中的字符
 	'seccode_image_ani_tips' => '请输入下面动画图片中的字符<br />',
@@ -208,11 +208,11 @@ $lang = array
 	'title_collection_comment_list' => '评论列表',
 	'title_collection_followers_list' => '订阅用户列表',
 
-	'faq' => '帮助',
-	'search' => '搜索',
+	'faq' => 'FAQ',//帮助
+	'search' => 'Pesquisar',//搜索
 	'page' => '第{page}页',
 
-	'close' => '关闭',
+	'close' => 'Fechar',//关闭
 );
 
 ?>
