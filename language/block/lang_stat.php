@@ -31,18 +31,18 @@ $lang = array
 	'stat_edit_showtitle' => '显示名称',
 	'stat_edit_showtitle_detail' => '您可以编辑以下对应项来自定义各统计项的显示名称',
 
-	'stat_posts' => '帖子',
-	'stat_groups' => '圈子',
-	'stat_members' => '会员',
+	'stat_posts' => 'Publicações',//帖子
+	'stat_groups' => 'Grupos',//圈子
+	'stat_members' => 'Membros',//会员
 	'stat_groupnewposts' => '圈子今日发帖',
 	'stat_bbsnewposts' => '论坛今日发帖',
 	'stat_bbslastposts' => '论坛昨日发帖',
 	'stat_onlinemembers' => '当前在线会员',
 	'stat_maxmembers' => '历史最高在线',
-	'stat_doings' => '动态',
-	'stat_blogs' => '日志',
-	'stat_albums' => '相册',
-	'stat_pics' => '图片',
-	'stat_shares' => '分享',
+	'stat_doings' => 'Diários',//动态
+	'stat_blogs' => 'Blogs',//日志
+	'stat_albums' => 'Álbums',//相册
+	'stat_pics' => 'Imagens',//图片
+	'stat_shares' => 'Compartilhamentos',//分享
 );
 ?>

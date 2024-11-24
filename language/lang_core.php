@@ -46,7 +46,7 @@ $lang = array
 	'portal' => '门户',
 	'end' => '末尾',
 
-	'seccode_image_tips' => '输入下图中的字符<br />',
+	'seccode_image_tips' => 'Digite os caractéres abaixo<br />',//输入下图中的字符
 	'seccode_image_ani_tips' => '请输入下面动画图片中的字符<br />',
 	'seccode_sound_tips' => '输入您听到的字符<br />',
 	'secqaa_tips' => '输入下面问题的答案<br />',
@@ -141,7 +141,7 @@ $lang = array
 	'title_flash_upload' => '批量上传',
 	'title_cam_upload' => '大头贴',
 	'title_normal_upload' => '普通上传',
-	'title_newthread_post' => '发表帖子',
+	'title_newthread_post' => 'Nova publicação',//发表帖子
 	'title_reply_post' => '参与/回复主题',
 	'title_edit_post' => '编辑帖子',
 	'title_newtrade_post' => '发布商品',

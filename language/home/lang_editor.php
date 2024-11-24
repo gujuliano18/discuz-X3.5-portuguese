@@ -79,7 +79,7 @@ $lang = array(
 	'editor_prompt_video_media' => 'Media 视频',
 	'editor_prompt_video_real' => 'Real 视频',
 	'editor_prompt_mp3' => 'mp3 音乐',
-	'editor_full_screen' => '全屏',
+	'editor_full_screen' => 'Tela cheia',//全屏
 );
 
 ?>
