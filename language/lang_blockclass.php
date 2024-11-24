@@ -350,7 +350,7 @@ $lang = array(
 	'blockclass_group_script_groupspecified' => '指定圈子',
 	'blockclass_group_script_group' => '高级自定义',
 
-	'blockclass_group_thread' => '圈子帖子',
+	'blockclass_group_thread' => '圈子帖子',//圈子帖子
 	'blockclass_groupthread_field_url' => '帖子链接',
 	'blockclass_groupthread_field_title' => '帖子标题',
 	'blockclass_groupthread_field_pic' => '附件图片',

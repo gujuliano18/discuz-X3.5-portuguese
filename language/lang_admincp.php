@@ -4152,7 +4152,7 @@ $lang = array
 	'usergroups_system_4' => 'Silenciado',//禁止发言
 	'usergroups_system_5' => 'Acesso Proibido',//禁止访问
 	'usergroups_system_6' => 'IP Banido',//用户IP被禁止
-	'usergroups_system_7' => 'Vistante',//游客
+	'usergroups_system_7' => 'Visitante',//游客
 	'usergroups_system_8' => 'Aguardando verificação',//等待验证
 	'usergroups_creditsrange' => '积分介于',//积分介于
 
