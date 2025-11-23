@@ -13,40 +13,41 @@ if(!defined('IN_DISCUZ')) {
 
 $lang = array
 (
-	'admincp_title' => '<span>Discuz!</span>管理中心',
-	'login_title' => '登录管理中心',
-	'login_username' => '用户名',
-	'login_password' => '密码',
-	'login_dk_light_mode' => '亮色模式',
-	'login_dk_by_system' => '跟随系统',
-	'login_dk_normal_mode' => '正常模式',
-	'login_dk_dark_mode' => '夜间模式',
+'admincp_title' => 'Discuz! Painel de Administração',
+'login_title' => 'Acessar o Painel de Administração',
+'login_username' => 'Nome de usuário',
+'login_password' => 'Senha',
+'login_dk_light_mode' => 'Modo claro',
+'login_dk_by_system' => 'Seguir o sistema',
+'login_dk_normal_mode' => 'Modo normal',
+'login_dk_dark_mode' => 'Modo noturno',
+'submit' => 'Entrar',
+'forcesecques' => 'Campo obrigatório',
+'security_question' => 'Pergunta de segurança',
+'security_answer' => 'Resposta',
+'security_question_0' => 'Nenhuma pergunta de segurança',
+'security_question_1' => 'Nome da mãe',
+'security_question_2' => 'Nome do avô',
+'security_question_3' => 'Cidade onde seu pai nasceu',
+'security_question_4' => 'Nome de um dos seus professores',
+'security_question_5' => 'Modelo do seu computador pessoal',
+'security_question_6' => 'Nome do seu restaurante favorito',
+'security_question_7' => 'Últimos 4 dígitos da carteira de motorista',
+'login_tips' => 'Discuz! é uma plataforma profissional de construção de comunidades que ajuda sites a oferecer serviços completos em um só lugar.',
+'login_nosecques' => 'Você ainda não configurou a pergunta de segurança. Por favor, configure-a no seu perfil antes de acessar o painel de administração. Você pode clicar aqui para definir sua pergunta de segurança.',
+'copyright' => '© 2001-'.date('Y').' Equipe Discuz!.',
+'login_cp_guest' => 'Você ainda não fez login no siteFazer loginSe o administrador exigir login forçado, edite o arquivo config/config_global.php para desativar esta função.',
+'login_cplock' => 'Seu painel de administração foi temporariamente bloqueado!
+Por favor, tente novamente em {ltime} segundos.',
+'login_user_lock' => 'Você digitou a senha incorreta muitas vezes. Este acesso foi bloqueado por segurança. Tente novamente em 15 minutos.',
+'login_cp_noaccess' => 'O painel de administração (ou esta operação) não está liberado para você
 
-	'submit' => '提交',
-	'forcesecques' => '必填项',
-	'security_question' => '安全提问',
-	'security_answer' => '回答',
-	'security_question_0' => '无安全提问',
-	'security_question_1' => '母亲的名字',
-	'security_question_2' => '爷爷的名字',
-	'security_question_3' => '父亲出生的城市',
-	'security_question_4' => '您其中一位老师的名字',
-	'security_question_5' => '您个人计算机的型号',
-	'security_question_6' => '您最喜欢的餐馆名称',
-	'security_question_7' => '驾驶执照最后四位数字',
-
-	'login_tips' => 'Discuz! 是一款以社区为基础的专业建站平台，帮助网站实现一站式服务。',
-	'login_nosecques' => '您还没有使用安全登录，请在个人中心设置您的安全提问后，再访问管理中心。您可以 <a href="forum.php?mod=memcp&action=profile&typeid=1" target="_blank">点击这里</a> 进入安全提问的设置。',
-	'copyright' => '&copy; 2001-'.date('Y').' <a href="https://code.dismall.com/" target="_blank">Discuz! Team</a>.',
-
-	'login_cp_guest' => '<h1>您尚未登录网站</h1><a href="member.php?mod=logging&action=login" class="btn">登录</a><p>站长需要强制登录时，修改 config/config_global.php 可关闭此功能。</p>',
-	'login_cplock' => '您的管理面板已经锁定！<br>请在<b> {ltime} </b>秒以后重新访问管理中心。',
-	'login_user_lock' => '由于您的登录密码错误次数过多，本次登录请求已经被拒绝。请 15 分钟后重新尝试。',
-	'login_cp_noaccess' => '<b>管理中心(或此项操作)尚未对您开放</b><br><br>您的此次操作已经记录，请勿非法尝试',
-	'login_ip_noaccess' => '<a href="https://www.dismall.com/thread-17514-1-1.html" target="_blank">IP变动可能导致登录失败，查看解决办法</a>',
-	'noaccess' => '后台管理权限(或此项操作)尚未对您开放，请联系站点管理员',
+Sua tentativa foi registrada. Não tente acessar áreas não autorizadas.',
+'login_ip_noaccess' => 'Mudança de IP pode causar falha no login – veja como resolver',
+'noaccess' => 'Você não tem permissão para acessar o painel de administração (ou realizar esta operação). Entre em contato com o administrador do site.',
 
 
 );
+
 
 ?>
